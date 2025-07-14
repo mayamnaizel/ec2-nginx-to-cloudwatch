@@ -78,6 +78,7 @@ sudo nano /opt/aws/amazon-cloudwatch-agent/bin/config.json
 ```
 
 Paste this content:
+Making sure to change your IntanceID to the correct one 
 
 ```json
 {
