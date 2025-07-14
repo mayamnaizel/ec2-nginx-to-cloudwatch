@@ -4,11 +4,11 @@
 
 ### Quick Recap of What I’ve Achieved:
 
-Launched and configured an EC2 instance  
-Installed and ran NGINX  
-Installed and configured the CloudWatch Agent  
-Created a custom JSON config to send logs  
-Successfully saw the logs in **CloudWatch**!
+- Launched and configured an EC2 instance  
+- Installed and ran NGINX  
+- Installed and configured the CloudWatch Agent  
+- Created a custom JSON config to send logs  
+- Successfully saw the logs in **CloudWatch**!
 
 ---
 
